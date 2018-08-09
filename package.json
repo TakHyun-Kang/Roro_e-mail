@@ -1,0 +1,18 @@
+{
+  "name": "email-template",
+  "version": "1.0.0",
+  "description": "이 프로젝트는 Roro의 e-mail 페이지의 mock-up입니다.",
+  "main": "index.js",
+  "scripts": {
+    "roro": "http-server templates/roro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.majac.co.kr/TakHyun-Kang/Beetle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
