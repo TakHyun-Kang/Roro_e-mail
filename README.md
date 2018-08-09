@@ -1,3 +1,11 @@
-이 프로젝트는 Roro의 e-mail 페이지의 mock-up입니다.
+# Open Source Consultion Email Template
 
-dist의 index.html을 봐주시면 됩니다.
+### Demo
+
+- `git clone`
+- `npm i`
+- `npm run roro`
+
+### How to use
+
+- `<>` 으로 묶인 데이터는 원하는 값으로 반드시 매핑해서 사용해주세요!
